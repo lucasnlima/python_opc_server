@@ -1,4 +1,4 @@
-## [SDA - Sistema Distribuidos para Automação]
+## [SDA - Sistemas Distribuidos para Automação]
 
 Servidor OPC Gateway para envios de variaveis
 do processo via TPC/IP para um host remoto.
