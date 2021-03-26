@@ -1,0 +1,1 @@
+"C:\Users\lucas\Documents\SDA\ArduinoOPC-Client\ArduinoOPCServer.exe" /unregserver
